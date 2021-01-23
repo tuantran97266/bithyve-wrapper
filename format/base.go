@@ -112,7 +112,7 @@ type Tx struct {
 
 func hunt(addresses []string, elem string) bool {
 	for _, address := range addresses {
-		if address == elem {
+		if address == elem {1217 ne 160th ave
 			return true
 		}
 	}
